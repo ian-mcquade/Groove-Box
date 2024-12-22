@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+**/.venv/
+
+# Node
+frontend/node_modules/
+
+# Environment variables
+*.env
+
+# Docker
+db_data/
+
+# macOS
+.DS_Store
