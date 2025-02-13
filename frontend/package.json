@@ -1,0 +1,8 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "quasar dev",
+    "build": "quasar build"
+  }
+}
